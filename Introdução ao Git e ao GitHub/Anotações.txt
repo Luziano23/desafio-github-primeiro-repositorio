@@ -1,0 +1,23 @@
+Link para download do Git:https://git-scm.com/downloads
+
+-------------------------------------------------------------
+
+Comandos básico do Git:
+
+Ls: Listar Pastas
+
+ Cd: Ir para pasta
+
+ Cd /: Vai para base do diretório C:
+
+ Cd .. : Volta para pasta anterior
+
+ Clear ou Ctrl + L : Limpar tela
+
+ Mkdir: Criar Pasta
+
+ Rm -rf: Deletar Pasta
+
+ Mv: Mover Arquivos
+
+---------------------------------------------------------------
